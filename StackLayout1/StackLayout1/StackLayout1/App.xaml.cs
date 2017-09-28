@@ -13,7 +13,7 @@ namespace StackLayout1
         {
             InitializeComponent();
 
-            MainPage = new StackLayout1.MainPage();
+            MainPage = new StackLayout1.WelcomePage();
         }
 
         protected override void OnStart()
