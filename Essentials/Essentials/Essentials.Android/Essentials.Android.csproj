@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{77F2E59C-7537-452C-8634-DBF573E368A8}</ProjectGuid>
+    <ProjectGuid>{355F0683-526E-4A1B-8CDD-5B737B1B6C94}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -121,7 +121,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Essentials\Essentials.csproj">
-      <Project>{ef93c010-15e7-42b3-b868-1a408ea5790e}</Project>
+      <Project>{2d399626-c1d5-4b3b-bcbb-e6a7c7485303}</Project>
       <Name>Essentials</Name>
     </ProjectReference>
   </ItemGroup>

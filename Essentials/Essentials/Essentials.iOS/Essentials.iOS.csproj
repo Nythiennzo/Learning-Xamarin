@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C576AE7C-54B2-4334-A4A2-036FFC0D0557}</ProjectGuid>
+    <ProjectGuid>{5DD4858B-2897-4DA3-90B7-4CE3C7892A01}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
     <RootNamespace>Essentials.iOS</RootNamespace>
@@ -135,7 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Essentials\Essentials.csproj">
-      <Project>{ef93c010-15e7-42b3-b868-1a408ea5790e}</Project>
+      <Project>{2d399626-c1d5-4b3b-bcbb-e6a7c7485303}</Project>
       <Name>Essentials</Name>
     </ProjectReference>
   </ItemGroup>

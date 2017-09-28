@@ -1,0 +1,16 @@
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Essentials.dll
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Essentials.pdb
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Xamarin.Forms.Core.dll
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Xamarin.Forms.Platform.dll
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Xamarin.Forms.Core.pdb
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Xamarin.Forms.Core.xml
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\obj\Debug\Essentials.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\obj\Debug\Essentials.MainPage.xaml.g.cs
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\obj\Debug\Essentials.App.xaml.g.cs
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\obj\Debug\Essentials.QuotesPage.xaml.g.cs
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\obj\Debug\Essentials.dll
+C:\GitHub\Learning\Xamarin\Essentials\Essentials\Essentials\obj\Debug\Essentials.pdb

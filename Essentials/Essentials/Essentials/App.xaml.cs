@@ -13,7 +13,7 @@ namespace Essentials
         {
             InitializeComponent();
 
-            MainPage = new Essentials.MainPage();
+            MainPage = new QuotesPage();
         }
 
         protected override void OnStart()
